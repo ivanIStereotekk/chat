@@ -13,7 +13,7 @@ tools used:
 - Tailwind CSS
 - OAuth2 - https://github.com/
 
-- скачайте репозиторий себе на компьютер
+# скачайте репозиторий себе на компьютер
 
 $ npm install
 
