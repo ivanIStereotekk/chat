@@ -2,15 +2,16 @@
 
 tools used:
 
-NextAuth.js
-Next.js
-Apollo Client
-Grafbase
-Server-Sent Events
-GraphQL Live Queries
-GraphQL
-Tailwind CSS
-OAuth2 - https://github.com/
+- NextAuth.js
+
+- Next.js
+- Apollo Client
+- Grafbase
+- Server-Sent Events
+- GraphQL Live Queries
+- GraphQL
+- Tailwind CSS
+- OAuth2 - https://github.com/
 
 - скачайте репозиторий себе на компьютер
 
